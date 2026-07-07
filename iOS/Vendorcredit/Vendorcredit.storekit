@@ -1,0 +1,27 @@
+{
+  "identifier" : "Vendorcredit",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "vendorcredit.pro.unlock",
+      "localizations" : [
+        {
+          "description" : "Payment reminders and multi-person balance summary",
+          "displayName" : "Vendorcredit Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "vendorcredit.pro.unlock",
+      "referenceName" : "Vendorcredit Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
